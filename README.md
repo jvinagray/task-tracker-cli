@@ -1,5 +1,5 @@
 # Task Tracker CLI
-
+## Project URL: https://github.com/jvinagray/task-tracker-cli
 A simple command-line interface (CLI) to manage tasks, built with Python. Tasks are stored in a `tasks.json` file.
 
 ## Requirements
@@ -81,5 +81,6 @@ python task_cli.py list done
 1. Do you understand each function’s role? Want to dive deeper into any (e.g., JSON handling, argument parsing)?
 2. Are there specific features you’re struggling with?
 3. Want to try an enhancement (e.g., sorting tasks) to practice more?
+
 
 Let me know how you’d like to proceed!
