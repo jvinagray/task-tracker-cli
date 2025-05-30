@@ -1,6 +1,7 @@
 # Task Tracker CLI
 
-## Project URL: https://github.com/jvinagray/task-tracker-cli
+## Project URL: https://roadmap.sh/projects/task-tracker
+
 A simple command-line interface (CLI) to manage tasks, built with Python. Tasks are stored in a `tasks.json` file.
 
 ## Requirements
